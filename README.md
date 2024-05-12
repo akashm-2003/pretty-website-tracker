@@ -9,12 +9,13 @@ Extension uses only local chrome.storage API to store data and it doesn't send d
 ## Features
 
 
+- Data Filter
+- Motivation
 - Live Time on Icon
-- Live previews
+- False Negative
 - Download CSV
 - Statistics
 - Set Notifications
-- Statistics
     
 
 
