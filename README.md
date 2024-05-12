@@ -4,7 +4,7 @@
 Pretty Website Tracker monitors your online activity and displays the data in an easy-to-understand format.
 Sites can have daily visitation limits set, which can be blocked after the limit is passed.
 
-
+Note: Uploading Extension in Chrome Web Store it charges 5$. So unable to host on there.
 Extension uses only local chrome.storage API to store data and it doesn't send data anywhere, you can see your overall stats by clicking Dashboard on top right.
 ## Features
 
