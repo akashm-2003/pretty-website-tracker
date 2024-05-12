@@ -9,12 +9,13 @@ Extension uses only local chrome.storage API to store data and it doesn't send d
 ## Features
 
 
+- Data Filter
+- Motivation
 - Live Time on Icon
-- Live previews
+- False Negative
 - Download CSV
 - Statistics
 - Set Notifications
-- Statistics
     
 
 
@@ -30,16 +31,16 @@ Extension uses only local chrome.storage API to store data and it doesn't send d
 ```bash
   Extract it
 ```
-- Click on the puzzle icon
+- Click on the puzzle icon<br />  
 ![Logo](https://github.com/akashm-2003/apshah/assets/114295674/a37c70b3-0a75-41e5-831f-3fa033287f6c)
 - Manage Extension
-- Click on Developer Mode on Right Up Corner
+- Click on Developer Mode on Right Up Corner<br />  
 ![Logo](https://github.com/akashm-2003/apshah/assets/114295674/763ccd5f-8e24-446e-886f-b56af43b94c5)
-- Click on Load unpacked
+- Click on Load unpacked<br />  
 ![Logo](https://github.com/akashm-2003/apshah/assets/114295674/76fb9f1a-ed62-4ccd-bb98-2c9d76007504)
 - Select the folder which has extracted pretty website tracker
 
-- Pin the extension by clicking on puzzle icon then Pin
+- Pin the extension by clicking on puzzle icon then Pin<br />  
 ![Logo](https://github.com/akashm-2003/apshah/assets/114295674/9559bda2-3380-4b37-ab5f-de4f2fc00912)
 
 ### Method 2 - Build Method
@@ -51,3 +52,4 @@ Extension uses only local chrome.storage API to store data and it doesn't send d
 
 ## Demo
 
+[![Watch the video](https://github.com/akashm-2003/apshah/assets/114295674/cc513b65-6012-446f-8002-31b97552caab)](https://github.com/akashm-2003/apshah/assets/114295674/da96fa62-45a5-4d25-8cf7-020105c5e6e1)
