@@ -50,4 +50,4 @@ Extension uses only local chrome.storage API to store data and it doesn't send d
 - A folder named dist will be created. Load this folder in chrome as Load unpacked (Explain in Method 1)
 
 ## Demo
-
+[![Watch the video](https://github.com/akashm-2003/apshah/assets/114295674/cc513b65-6012-446f-8002-31b97552caab)](https://github.com/akashm-2003/apshah/assets/114295674/da96fa62-45a5-4d25-8cf7-020105c5e6e1)
